@@ -1,0 +1,1501 @@
+date,product,city,quantity,unit_price,total
+2026-06-01,Backpack,Cairo,2,650,1300
+2026-06-01,Cap,Cairo,1,180,180
+2026-06-01,Hoodie,Alexandria,1,750,750
+2026-06-01,Water Bottle,Giza,2,120,240
+2026-06-01,Sport Socks,Assiut,3,80,240
+2026-06-01,Gym Shorts,Mansoura,1,300,300
+2026-06-01,Gym Bag,Cairo,4,450,1800
+2026-06-01,Gym Shorts,Alexandria,2,300,600
+2026-06-01,Gym Shorts,Cairo,3,300,900
+2026-06-01,Hoodie,Mansoura,2,750,1500
+2026-06-01,Water Bottle,Giza,1,120,120
+2026-06-02,Hoodie,Assiut,4,750,3000
+2026-06-02,Gym Shorts,Cairo,2,300,600
+2026-06-02,Full Tracksuit,Mansoura,1,1100,1100
+2026-06-02,Sport Socks,Cairo,4,80,320
+2026-06-02,Full Tracksuit,Alexandria,2,1100,2200
+2026-06-02,Sport T-Shirt,Mansoura,4,350,1400
+2026-06-02,Gym Shorts,Cairo,4,300,1200
+2026-06-02,Gym Shorts,Alexandria,3,300,900
+2026-06-02,Sport T-Shirt,Giza,3,350,1050
+2026-06-02,Cap,Giza,1,180,180
+2026-06-03,Gym Shorts,Alexandria,4,300,1200
+2026-06-03,Gym Shorts,Giza,3,300,900
+2026-06-03,Cap,Alexandria,4,180,720
+2026-06-03,Gym Shorts,Mansoura,1,300,300
+2026-06-03,Full Tracksuit,Cairo,4,1100,4400
+2026-06-03,Gym Bag,Giza,4,450,1800
+2026-06-03,Gym Bag,Cairo,2,450,900
+2026-06-03,Sport T-Shirt,Giza,1,350,350
+2026-06-03,Training Gloves,Cairo,1,200,200
+2026-06-04,Gym Bag,Alexandria,4,450,1800
+2026-06-04,Training Gloves,Giza,1,200,200
+2026-06-04,Gym Shorts,Cairo,1,300,300
+2026-06-04,Full Tracksuit,Mansoura,4,1100,4400
+2026-06-04,Sport Socks,Cairo,3,80,240
+2026-06-04,Gym Shorts,Alexandria,4,300,1200
+2026-06-04,Gym Bag,Mansoura,1,450,450
+2026-06-04,Sport Socks,Assiut,2,80,160
+2026-06-04,Hoodie,Cairo,3,750,2250
+2026-06-04,Training Gloves,Cairo,3,200,600
+2026-06-04,Gym Shorts,Mansoura,3,300,900
+2026-06-05,Water Bottle,Cairo,3,120,360
+2026-06-05,Training Gloves,Alexandria,1,200,200
+2026-06-05,Hoodie,Mansoura,4,750,3000
+2026-06-05,Hoodie,Mansoura,4,750,3000
+2026-06-05,Sport T-Shirt,Cairo,3,350,1050
+2026-06-05,Sport Jacket,Giza,4,900,3600
+2026-06-06,Full Tracksuit,Mansoura,2,1100,2200
+2026-06-06,Training Gloves,Giza,3,200,600
+2026-06-06,Water Bottle,Cairo,1,120,120
+2026-06-06,Water Bottle,Giza,2,120,240
+2026-06-06,Hoodie,Assiut,3,750,2250
+2026-06-06,Water Bottle,Cairo,3,120,360
+2026-06-06,Full Tracksuit,Alexandria,1,1100,1100
+2026-06-06,Gym Shorts,Cairo,3,300,900
+2026-06-07,Cap,Mansoura,3,180,540
+2026-06-07,Sport T-Shirt,Giza,3,350,1050
+2026-06-07,Gym Shorts,Alexandria,1,300,300
+2026-06-07,Sport T-Shirt,Assiut,4,350,1400
+2026-06-07,Sport T-Shirt,Cairo,4,350,1400
+2026-06-07,Training Gloves,Alexandria,4,200,800
+2026-06-07,Hoodie,Alexandria,3,750,2250
+2026-06-07,Backpack,Giza,1,650,650
+2026-06-07,Hoodie,Alexandria,2,750,1500
+2026-06-07,Gym Shorts,Giza,1,300,300
+2026-06-07,Gym Shorts,Giza,4,300,1200
+2026-06-07,Sport T-Shirt,Cairo,1,350,350
+2026-06-07,Leggings,Cairo,3,400,1200
+2026-06-07,Sport T-Shirt,Giza,2,350,700
+2026-06-08,Training Gloves,Assiut,2,200,400
+2026-06-08,Leggings,Mansoura,4,400,1600
+2026-06-08,Water Bottle,Assiut,4,120,480
+2026-06-08,Cap,Giza,2,180,360
+2026-06-08,Training Gloves,Alexandria,3,200,600
+2026-06-08,Sport Socks,Assiut,3,80,240
+2026-06-08,Gym Shorts,Cairo,2,300,600
+2026-06-08,Hoodie,Alexandria,4,750,3000
+2026-06-08,Hoodie,Mansoura,3,750,2250
+2026-06-08,Full Tracksuit,Alexandria,3,1100,3300
+2026-06-09,Gym Shorts,Alexandria,3,300,900
+2026-06-09,Training Gloves,Alexandria,1,200,200
+2026-06-09,Full Tracksuit,Giza,3,1100,3300
+2026-06-09,Gym Shorts,Alexandria,1,300,300
+2026-06-09,Hoodie,Giza,2,750,1500
+2026-06-09,Gym Bag,Cairo,1,450,450
+2026-06-09,Hoodie,Alexandria,4,750,3000
+2026-06-09,Sport Socks,Assiut,3,80,240
+2026-06-09,Full Tracksuit,Mansoura,2,1100,2200
+2026-06-10,Sport Socks,Cairo,1,80,80
+2026-06-10,Hoodie,Cairo,2,750,1500
+2026-06-10,Training Gloves,Cairo,2,200,400
+2026-06-10,Gym Bag,Mansoura,2,450,900
+2026-06-10,Sport Jacket,Alexandria,1,900,900
+2026-06-10,Full Tracksuit,Cairo,1,1100,1100
+2026-06-10,Hoodie,Giza,4,750,3000
+2026-06-10,Gym Shorts,Cairo,2,300,600
+2026-06-10,Gym Shorts,Assiut,2,300,600
+2026-06-11,Sport T-Shirt,Cairo,2,350,700
+2026-06-11,Cap,Mansoura,4,180,720
+2026-06-11,Water Bottle,Assiut,4,120,480
+2026-06-11,Full Tracksuit,Cairo,2,1100,2200
+2026-06-11,Training Gloves,Giza,4,200,800
+2026-06-11,Full Tracksuit,Giza,2,1100,2200
+2026-06-12,Gym Bag,Alexandria,3,450,1350
+2026-06-12,Gym Bag,Alexandria,4,450,1800
+2026-06-12,Leggings,Mansoura,3,400,1200
+2026-06-12,Gym Bag,Giza,3,450,1350
+2026-06-12,Hoodie,Mansoura,1,750,750
+2026-06-12,Sport Socks,Giza,2,80,160
+2026-06-12,Leggings,Cairo,2,400,800
+2026-06-13,Hoodie,Assiut,1,750,750
+2026-06-13,Sport T-Shirt,Cairo,1,350,350
+2026-06-13,Full Tracksuit,Giza,1,1100,1100
+2026-06-13,Hoodie,Alexandria,2,750,1500
+2026-06-13,Sport Socks,Alexandria,3,80,240
+2026-06-13,Hoodie,Cairo,1,750,750
+2026-06-13,Training Gloves,Mansoura,2,200,400
+2026-06-13,Full Tracksuit,Cairo,3,1100,3300
+2026-06-13,Full Tracksuit,Giza,1,1100,1100
+2026-06-13,Sport T-Shirt,Giza,1,350,350
+2026-06-13,Gym Shorts,Cairo,1,300,300
+2026-06-13,Full Tracksuit,Alexandria,4,1100,4400
+2026-06-13,Water Bottle,Giza,1,120,120
+2026-06-14,Training Gloves,Cairo,4,200,800
+2026-06-14,Backpack,Alexandria,3,650,1950
+2026-06-14,Gym Shorts,Giza,3,300,900
+2026-06-14,Gym Shorts,Cairo,1,300,300
+2026-06-14,Leggings,Cairo,4,400,1600
+2026-06-14,Water Bottle,Cairo,2,120,240
+2026-06-14,Full Tracksuit,Cairo,4,1100,4400
+2026-06-14,Backpack,Alexandria,1,650,650
+2026-06-14,Gym Shorts,Giza,4,300,1200
+2026-06-14,Gym Shorts,Assiut,4,300,1200
+2026-06-14,Sport T-Shirt,Cairo,3,350,1050
+2026-06-15,Cap,Alexandria,3,180,540
+2026-06-15,Hoodie,Alexandria,2,750,1500
+2026-06-15,Training Gloves,Mansoura,4,200,800
+2026-06-15,Gym Shorts,Giza,3,300,900
+2026-06-15,Full Tracksuit,Giza,3,1100,3300
+2026-06-15,Sport Socks,Cairo,4,80,320
+2026-06-15,Hoodie,Alexandria,3,750,2250
+2026-06-15,Training Gloves,Cairo,4,200,800
+2026-06-15,Gym Shorts,Mansoura,4,300,1200
+2026-06-15,Training Gloves,Cairo,4,200,800
+2026-06-15,Full Tracksuit,Giza,2,1100,2200
+2026-06-15,Training Gloves,Cairo,2,200,400
+2026-06-16,Hoodie,Assiut,1,750,750
+2026-06-16,Gym Shorts,Cairo,1,300,300
+2026-06-16,Hoodie,Alexandria,3,750,2250
+2026-06-16,Gym Shorts,Cairo,3,300,900
+2026-06-16,Sport T-Shirt,Cairo,1,350,350
+2026-06-16,Gym Shorts,Alexandria,4,300,1200
+2026-06-16,Gym Bag,Giza,2,450,900
+2026-06-16,Hoodie,Cairo,2,750,1500
+2026-06-16,Training Gloves,Assiut,1,200,200
+2026-06-16,Sport T-Shirt,Cairo,2,350,700
+2026-06-16,Sport Socks,Cairo,1,80,80
+2026-06-17,Sport T-Shirt,Mansoura,4,350,1400
+2026-06-17,Full Tracksuit,Mansoura,4,1100,4400
+2026-06-17,Full Tracksuit,Cairo,2,1100,2200
+2026-06-17,Hoodie,Alexandria,1,750,750
+2026-06-17,Sport T-Shirt,Mansoura,4,350,1400
+2026-06-17,Full Tracksuit,Giza,3,1100,3300
+2026-06-17,Sport T-Shirt,Mansoura,4,350,1400
+2026-06-17,Gym Bag,Cairo,2,450,900
+2026-06-17,Leggings,Giza,4,400,1600
+2026-06-17,Sport Socks,Giza,3,80,240
+2026-06-18,Water Bottle,Alexandria,2,120,240
+2026-06-18,Full Tracksuit,Cairo,2,1100,2200
+2026-06-18,Water Bottle,Cairo,2,120,240
+2026-06-18,Sport T-Shirt,Cairo,3,350,1050
+2026-06-18,Sport Socks,Cairo,3,80,240
+2026-06-18,Sport Socks,Cairo,1,80,80
+2026-06-18,Water Bottle,Giza,1,120,120
+2026-06-18,Sport T-Shirt,Alexandria,2,350,700
+2026-06-18,Hoodie,Giza,1,750,750
+2026-06-18,Sport Socks,Mansoura,3,80,240
+2026-06-18,Sport Jacket,Cairo,1,900,900
+2026-06-18,Gym Shorts,Giza,4,300,1200
+2026-06-18,Full Tracksuit,Mansoura,4,1100,4400
+2026-06-18,Full Tracksuit,Assiut,4,1100,4400
+2026-06-18,Gym Shorts,Alexandria,1,300,300
+2026-06-18,Training Gloves,Cairo,3,200,600
+2026-06-18,Full Tracksuit,Mansoura,3,1100,3300
+2026-06-19,Full Tracksuit,Cairo,1,1100,1100
+2026-06-19,Training Gloves,Alexandria,1,200,200
+2026-06-19,Training Gloves,Alexandria,4,200,800
+2026-06-19,Full Tracksuit,Giza,4,1100,4400
+2026-06-19,Gym Bag,Cairo,3,450,1350
+2026-06-19,Full Tracksuit,Cairo,1,1100,1100
+2026-06-19,Sport T-Shirt,Giza,1,350,350
+2026-06-19,Full Tracksuit,Giza,2,1100,2200
+2026-06-19,Gym Bag,Alexandria,1,450,450
+2026-06-19,Hoodie,Giza,1,750,750
+2026-06-20,Hoodie,Cairo,1,750,750
+2026-06-20,Hoodie,Giza,2,750,1500
+2026-06-20,Gym Bag,Cairo,4,450,1800
+2026-06-20,Gym Bag,Alexandria,3,450,1350
+2026-06-20,Sport Jacket,Alexandria,3,900,2700
+2026-06-20,Gym Shorts,Giza,1,300,300
+2026-06-20,Gym Shorts,Giza,2,300,600
+2026-06-20,Gym Shorts,Cairo,3,300,900
+2026-06-20,Sport T-Shirt,Giza,4,350,1400
+2026-06-20,Gym Shorts,Cairo,4,300,1200
+2026-06-20,Water Bottle,Mansoura,3,120,360
+2026-06-21,Backpack,Cairo,1,650,650
+2026-06-21,Training Gloves,Giza,4,200,800
+2026-06-21,Hoodie,Cairo,4,750,3000
+2026-06-21,Sport Socks,Cairo,1,80,80
+2026-06-21,Leggings,Giza,2,400,800
+2026-06-21,Training Gloves,Cairo,1,200,200
+2026-06-21,Leggings,Cairo,2,400,800
+2026-06-21,Sport T-Shirt,Cairo,1,350,350
+2026-06-21,Hoodie,Cairo,3,750,2250
+2026-06-21,Full Tracksuit,Mansoura,3,1100,3300
+2026-06-21,Water Bottle,Cairo,2,120,240
+2026-06-21,Sport Socks,Alexandria,1,80,80
+2026-06-22,Hoodie,Cairo,4,750,3000
+2026-06-22,Gym Bag,Giza,4,450,1800
+2026-06-22,Gym Bag,Alexandria,3,450,1350
+2026-06-22,Gym Shorts,Alexandria,1,300,300
+2026-06-22,Sport Socks,Cairo,3,80,240
+2026-06-22,Sport Socks,Assiut,1,80,80
+2026-06-22,Water Bottle,Cairo,1,120,120
+2026-06-22,Full Tracksuit,Cairo,1,1100,1100
+2026-06-22,Gym Bag,Giza,4,450,1800
+2026-06-22,Sport T-Shirt,Giza,1,350,350
+2026-06-22,Sport T-Shirt,Giza,3,350,1050
+2026-06-22,Sport T-Shirt,Assiut,2,350,700
+2026-06-22,Hoodie,Alexandria,2,750,1500
+2026-06-23,Full Tracksuit,Mansoura,4,1100,4400
+2026-06-23,Full Tracksuit,Cairo,4,1100,4400
+2026-06-23,Sport Jacket,Cairo,3,900,2700
+2026-06-23,Training Gloves,Cairo,3,200,600
+2026-06-23,Sport Socks,Mansoura,3,80,240
+2026-06-23,Sport T-Shirt,Alexandria,1,350,350
+2026-06-23,Hoodie,Alexandria,3,750,2250
+2026-06-23,Gym Bag,Cairo,1,450,450
+2026-06-23,Hoodie,Assiut,4,750,3000
+2026-06-23,Leggings,Giza,1,400,400
+2026-06-24,Water Bottle,Cairo,3,120,360
+2026-06-24,Full Tracksuit,Alexandria,1,1100,1100
+2026-06-24,Hoodie,Alexandria,3,750,2250
+2026-06-24,Gym Bag,Cairo,3,450,1350
+2026-06-24,Gym Shorts,Cairo,2,300,600
+2026-06-24,Gym Bag,Assiut,4,450,1800
+2026-06-24,Training Gloves,Cairo,3,200,600
+2026-06-24,Gym Shorts,Assiut,4,300,1200
+2026-06-24,Cap,Alexandria,2,180,360
+2026-06-24,Gym Bag,Cairo,4,450,1800
+2026-06-24,Gym Shorts,Giza,4,300,1200
+2026-06-25,Sport T-Shirt,Mansoura,1,350,350
+2026-06-25,Full Tracksuit,Mansoura,4,1100,4400
+2026-06-25,Sport T-Shirt,Cairo,3,350,1050
+2026-06-25,Leggings,Giza,1,400,400
+2026-06-25,Hoodie,Mansoura,3,750,2250
+2026-06-25,Hoodie,Giza,1,750,750
+2026-06-25,Water Bottle,Alexandria,4,120,480
+2026-06-25,Hoodie,Cairo,3,750,2250
+2026-06-25,Gym Shorts,Assiut,3,300,900
+2026-06-25,Hoodie,Cairo,3,750,2250
+2026-06-25,Gym Shorts,Assiut,1,300,300
+2026-06-25,Hoodie,Alexandria,3,750,2250
+2026-06-26,Water Bottle,Cairo,3,120,360
+2026-06-26,Leggings,Assiut,3,400,1200
+2026-06-26,Sport Socks,Giza,3,80,240
+2026-06-26,Gym Shorts,Alexandria,3,300,900
+2026-06-26,Water Bottle,Giza,3,120,360
+2026-06-26,Training Gloves,Cairo,3,200,600
+2026-06-26,Hoodie,Cairo,4,750,3000
+2026-06-26,Water Bottle,Cairo,3,120,360
+2026-06-26,Sport T-Shirt,Giza,2,350,700
+2026-06-27,Gym Shorts,Assiut,4,300,1200
+2026-06-27,Hoodie,Giza,1,750,750
+2026-06-27,Sport Socks,Cairo,3,80,240
+2026-06-27,Sport T-Shirt,Cairo,3,350,1050
+2026-06-27,Sport T-Shirt,Mansoura,1,350,350
+2026-06-27,Training Gloves,Alexandria,4,200,800
+2026-06-27,Water Bottle,Alexandria,1,120,120
+2026-06-27,Sport T-Shirt,Cairo,3,350,1050
+2026-06-27,Hoodie,Assiut,1,750,750
+2026-06-27,Gym Bag,Giza,4,450,1800
+2026-06-28,Leggings,Giza,3,400,1200
+2026-06-28,Sport T-Shirt,Cairo,2,350,700
+2026-06-28,Sport Socks,Alexandria,2,80,160
+2026-06-28,Backpack,Cairo,4,650,2600
+2026-06-28,Gym Bag,Cairo,1,450,450
+2026-06-28,Leggings,Cairo,1,400,400
+2026-06-28,Water Bottle,Assiut,1,120,120
+2026-06-28,Sport Socks,Assiut,4,80,320
+2026-06-29,Gym Bag,Mansoura,3,450,1350
+2026-06-29,Cap,Cairo,4,180,720
+2026-06-29,Hoodie,Mansoura,4,750,3000
+2026-06-29,Sport Socks,Cairo,4,80,320
+2026-06-29,Cap,Cairo,3,180,540
+2026-06-29,Sport Jacket,Giza,2,900,1800
+2026-06-29,Sport T-Shirt,Assiut,1,350,350
+2026-06-29,Full Tracksuit,Cairo,3,1100,3300
+2026-06-30,Sport Socks,Alexandria,4,80,320
+2026-06-30,Gym Shorts,Mansoura,1,300,300
+2026-06-30,Hoodie,Alexandria,2,750,1500
+2026-06-30,Training Gloves,Giza,3,200,600
+2026-06-30,Sport Socks,Giza,3,80,240
+2026-06-30,Training Gloves,Alexandria,4,200,800
+2026-06-30,Sport T-Shirt,Assiut,2,350,700
+2026-06-30,Sport Socks,Cairo,1,80,80
+2026-07-01,Sport Socks,Mansoura,4,80,320
+2026-07-01,Leggings,Alexandria,2,400,800
+2026-07-01,Full Tracksuit,Giza,4,1100,4400
+2026-07-01,Cap,Giza,1,180,180
+2026-07-01,Gym Shorts,Cairo,1,300,300
+2026-07-01,Leggings,Cairo,2,400,800
+2026-07-01,Full Tracksuit,Cairo,4,1100,4400
+2026-07-01,Sport T-Shirt,Cairo,3,350,1050
+2026-07-02,Gym Shorts,Giza,4,300,1200
+2026-07-02,Full Tracksuit,Giza,1,1100,1100
+2026-07-02,Sport Socks,Cairo,2,80,160
+2026-07-03,Hoodie,Cairo,2,750,1500
+2026-07-03,Water Bottle,Giza,1,120,120
+2026-07-03,Sport Socks,Assiut,3,80,240
+2026-07-03,Gym Shorts,Cairo,1,300,300
+2026-07-03,Leggings,Alexandria,4,400,1600
+2026-07-04,Sport Socks,Giza,4,80,320
+2026-07-04,Full Tracksuit,Giza,3,1100,3300
+2026-07-04,Sport T-Shirt,Mansoura,4,350,1400
+2026-07-05,Sport T-Shirt,Alexandria,4,350,1400
+2026-07-05,Sport Socks,Cairo,1,80,80
+2026-07-05,Sport T-Shirt,Cairo,1,350,350
+2026-07-05,Sport T-Shirt,Giza,1,350,350
+2026-07-05,Gym Shorts,Cairo,2,300,600
+2026-07-05,Hoodie,Alexandria,4,750,3000
+2026-07-05,Cap,Cairo,4,180,720
+2026-07-05,Backpack,Cairo,1,650,650
+2026-07-05,Sport Socks,Cairo,3,80,240
+2026-07-06,Hoodie,Assiut,2,750,1500
+2026-07-06,Backpack,Giza,3,650,1950
+2026-07-06,Gym Bag,Cairo,4,450,1800
+2026-07-06,Gym Shorts,Cairo,1,300,300
+2026-07-06,Gym Bag,Giza,2,450,900
+2026-07-06,Sport Socks,Alexandria,3,80,240
+2026-07-06,Gym Bag,Giza,3,450,1350
+2026-07-06,Training Gloves,Alexandria,3,200,600
+2026-07-06,Full Tracksuit,Assiut,2,1100,2200
+2026-07-06,Full Tracksuit,Giza,3,1100,3300
+2026-07-06,Cap,Giza,1,180,180
+2026-07-06,Gym Shorts,Mansoura,3,300,900
+2026-07-06,Full Tracksuit,Cairo,4,1100,4400
+2026-07-06,Hoodie,Mansoura,3,750,2250
+2026-07-06,Full Tracksuit,Alexandria,2,1100,2200
+2026-07-06,Sport T-Shirt,Giza,3,350,1050
+2026-07-07,Gym Shorts,Cairo,4,300,1200
+2026-07-07,Gym Shorts,Giza,2,300,600
+2026-07-07,Hoodie,Alexandria,2,750,1500
+2026-07-07,Gym Bag,Alexandria,1,450,450
+2026-07-07,Gym Shorts,Alexandria,3,300,900
+2026-07-07,Water Bottle,Giza,1,120,120
+2026-07-07,Sport T-Shirt,Cairo,4,350,1400
+2026-07-07,Hoodie,Cairo,1,750,750
+2026-07-07,Cap,Cairo,1,180,180
+2026-07-07,Full Tracksuit,Cairo,3,1100,3300
+2026-07-07,Sport Jacket,Cairo,4,900,3600
+2026-07-07,Sport T-Shirt,Cairo,2,350,700
+2026-07-07,Leggings,Cairo,4,400,1600
+2026-07-08,Training Gloves,Alexandria,1,200,200
+2026-07-08,Sport T-Shirt,Giza,3,350,1050
+2026-07-08,Gym Shorts,Giza,3,300,900
+2026-07-08,Training Gloves,Alexandria,1,200,200
+2026-07-08,Hoodie,Mansoura,3,750,2250
+2026-07-08,Gym Shorts,Giza,1,300,300
+2026-07-09,Sport T-Shirt,Assiut,3,350,1050
+2026-07-09,Hoodie,Assiut,2,750,1500
+2026-07-09,Sport Socks,Giza,3,80,240
+2026-07-09,Hoodie,Alexandria,2,750,1500
+2026-07-09,Sport Jacket,Giza,3,900,2700
+2026-07-09,Training Gloves,Giza,1,200,200
+2026-07-09,Sport T-Shirt,Cairo,3,350,1050
+2026-07-10,Sport Jacket,Cairo,1,900,900
+2026-07-10,Sport T-Shirt,Giza,2,350,700
+2026-07-10,Full Tracksuit,Giza,2,1100,2200
+2026-07-10,Cap,Giza,2,180,360
+2026-07-10,Full Tracksuit,Cairo,2,1100,2200
+2026-07-10,Sport T-Shirt,Assiut,4,350,1400
+2026-07-10,Full Tracksuit,Mansoura,2,1100,2200
+2026-07-10,Sport T-Shirt,Giza,2,350,700
+2026-07-11,Full Tracksuit,Alexandria,2,1100,2200
+2026-07-11,Full Tracksuit,Alexandria,2,1100,2200
+2026-07-11,Sport Jacket,Mansoura,4,900,3600
+2026-07-11,Gym Shorts,Cairo,3,300,900
+2026-07-11,Gym Bag,Giza,3,450,1350
+2026-07-11,Gym Bag,Cairo,2,450,900
+2026-07-11,Training Gloves,Giza,4,200,800
+2026-07-11,Sport T-Shirt,Alexandria,1,350,350
+2026-07-11,Hoodie,Cairo,3,750,2250
+2026-07-12,Full Tracksuit,Cairo,2,1100,2200
+2026-07-12,Training Gloves,Cairo,1,200,200
+2026-07-12,Training Gloves,Cairo,2,200,400
+2026-07-12,Sport T-Shirt,Mansoura,4,350,1400
+2026-07-12,Gym Bag,Mansoura,1,450,450
+2026-07-12,Full Tracksuit,Cairo,4,1100,4400
+2026-07-12,Gym Bag,Assiut,1,450,450
+2026-07-12,Gym Shorts,Cairo,2,300,600
+2026-07-12,Sport Socks,Alexandria,3,80,240
+2026-07-12,Gym Shorts,Cairo,1,300,300
+2026-07-13,Water Bottle,Cairo,2,120,240
+2026-07-13,Gym Bag,Mansoura,1,450,450
+2026-07-13,Sport Socks,Giza,4,80,320
+2026-07-13,Training Gloves,Assiut,1,200,200
+2026-07-13,Sport T-Shirt,Cairo,3,350,1050
+2026-07-13,Water Bottle,Cairo,3,120,360
+2026-07-13,Cap,Mansoura,4,180,720
+2026-07-13,Sport T-Shirt,Cairo,3,350,1050
+2026-07-13,Gym Shorts,Alexandria,3,300,900
+2026-07-13,Full Tracksuit,Alexandria,4,1100,4400
+2026-07-13,Full Tracksuit,Giza,4,1100,4400
+2026-07-13,Sport Socks,Cairo,2,80,160
+2026-07-14,Full Tracksuit,Giza,3,1100,3300
+2026-07-14,Hoodie,Cairo,4,750,3000
+2026-07-14,Gym Shorts,Mansoura,4,300,1200
+2026-07-14,Sport T-Shirt,Giza,4,350,1400
+2026-07-14,Sport Socks,Mansoura,1,80,80
+2026-07-14,Gym Shorts,Cairo,4,300,1200
+2026-07-14,Cap,Cairo,4,180,720
+2026-07-14,Gym Shorts,Giza,3,300,900
+2026-07-14,Gym Shorts,Alexandria,3,300,900
+2026-07-14,Gym Bag,Giza,2,450,900
+2026-07-15,Cap,Cairo,1,180,180
+2026-07-15,Hoodie,Giza,1,750,750
+2026-07-15,Sport T-Shirt,Mansoura,1,350,350
+2026-07-15,Sport T-Shirt,Cairo,3,350,1050
+2026-07-15,Training Gloves,Giza,1,200,200
+2026-07-15,Full Tracksuit,Cairo,3,1100,3300
+2026-07-15,Gym Shorts,Assiut,4,300,1200
+2026-07-15,Full Tracksuit,Mansoura,2,1100,2200
+2026-07-15,Sport T-Shirt,Mansoura,1,350,350
+2026-07-15,Cap,Mansoura,2,180,360
+2026-07-15,Training Gloves,Cairo,3,200,600
+2026-07-15,Sport Jacket,Cairo,3,900,2700
+2026-07-15,Training Gloves,Giza,1,200,200
+2026-07-15,Hoodie,Assiut,3,750,2250
+2026-07-16,Sport T-Shirt,Alexandria,4,350,1400
+2026-07-16,Cap,Cairo,1,180,180
+2026-07-16,Full Tracksuit,Cairo,1,1100,1100
+2026-07-16,Sport Jacket,Assiut,4,900,3600
+2026-07-16,Gym Shorts,Cairo,1,300,300
+2026-07-16,Water Bottle,Giza,1,120,120
+2026-07-16,Cap,Cairo,4,180,720
+2026-07-16,Gym Shorts,Alexandria,1,300,300
+2026-07-16,Full Tracksuit,Cairo,1,1100,1100
+2026-07-16,Hoodie,Alexandria,2,750,1500
+2026-07-16,Sport Socks,Mansoura,1,80,80
+2026-07-16,Hoodie,Cairo,4,750,3000
+2026-07-16,Sport Socks,Cairo,3,80,240
+2026-07-17,Full Tracksuit,Alexandria,2,1100,2200
+2026-07-17,Hoodie,Cairo,3,750,2250
+2026-07-17,Sport T-Shirt,Cairo,3,350,1050
+2026-07-17,Sport T-Shirt,Giza,3,350,1050
+2026-07-17,Hoodie,Assiut,2,750,1500
+2026-07-17,Hoodie,Cairo,4,750,3000
+2026-07-17,Sport Jacket,Cairo,1,900,900
+2026-07-17,Cap,Cairo,2,180,360
+2026-07-17,Cap,Mansoura,2,180,360
+2026-07-18,Gym Shorts,Cairo,3,300,900
+2026-07-18,Gym Shorts,Giza,3,300,900
+2026-07-18,Full Tracksuit,Cairo,2,1100,2200
+2026-07-18,Sport Socks,Cairo,4,80,320
+2026-07-18,Sport T-Shirt,Alexandria,1,350,350
+2026-07-18,Sport T-Shirt,Giza,1,350,350
+2026-07-18,Training Gloves,Mansoura,1,200,200
+2026-07-18,Hoodie,Cairo,4,750,3000
+2026-07-18,Sport T-Shirt,Cairo,2,350,700
+2026-07-18,Sport Socks,Cairo,2,80,160
+2026-07-18,Gym Shorts,Mansoura,3,300,900
+2026-07-18,Gym Shorts,Alexandria,4,300,1200
+2026-07-18,Full Tracksuit,Giza,1,1100,1100
+2026-07-18,Hoodie,Assiut,1,750,750
+2026-07-18,Training Gloves,Cairo,3,200,600
+2026-07-19,Water Bottle,Cairo,1,120,120
+2026-07-19,Full Tracksuit,Alexandria,2,1100,2200
+2026-07-19,Sport T-Shirt,Mansoura,2,350,700
+2026-07-19,Sport T-Shirt,Cairo,3,350,1050
+2026-07-19,Training Gloves,Cairo,4,200,800
+2026-07-19,Water Bottle,Cairo,4,120,480
+2026-07-19,Cap,Cairo,4,180,720
+2026-07-19,Training Gloves,Cairo,4,200,800
+2026-07-19,Sport Jacket,Cairo,2,900,1800
+2026-07-20,Hoodie,Alexandria,1,750,750
+2026-07-20,Sport T-Shirt,Cairo,2,350,700
+2026-07-20,Gym Shorts,Giza,1,300,300
+2026-07-20,Gym Shorts,Giza,2,300,600
+2026-07-20,Sport T-Shirt,Cairo,4,350,1400
+2026-07-20,Sport T-Shirt,Mansoura,1,350,350
+2026-07-20,Gym Bag,Cairo,2,450,900
+2026-07-20,Sport Socks,Cairo,4,80,320
+2026-07-21,Hoodie,Cairo,2,750,1500
+2026-07-21,Full Tracksuit,Cairo,1,1100,1100
+2026-07-21,Sport Socks,Cairo,2,80,160
+2026-07-21,Training Gloves,Alexandria,4,200,800
+2026-07-21,Full Tracksuit,Giza,2,1100,2200
+2026-07-21,Sport T-Shirt,Giza,1,350,350
+2026-07-21,Full Tracksuit,Cairo,3,1100,3300
+2026-07-21,Water Bottle,Giza,1,120,120
+2026-07-21,Gym Shorts,Cairo,4,300,1200
+2026-07-21,Gym Bag,Mansoura,1,450,450
+2026-07-22,Gym Bag,Cairo,3,450,1350
+2026-07-22,Cap,Alexandria,3,180,540
+2026-07-22,Sport T-Shirt,Cairo,3,350,1050
+2026-07-22,Cap,Cairo,4,180,720
+2026-07-22,Gym Shorts,Mansoura,2,300,600
+2026-07-22,Sport T-Shirt,Cairo,2,350,700
+2026-07-22,Gym Bag,Cairo,1,450,450
+2026-07-23,Gym Shorts,Alexandria,4,300,1200
+2026-07-23,Gym Shorts,Alexandria,4,300,1200
+2026-07-23,Gym Shorts,Giza,3,300,900
+2026-07-23,Water Bottle,Cairo,2,120,240
+2026-07-23,Sport T-Shirt,Cairo,4,350,1400
+2026-07-23,Sport T-Shirt,Alexandria,3,350,1050
+2026-07-23,Sport Jacket,Giza,2,900,1800
+2026-07-24,Sport Jacket,Cairo,2,900,1800
+2026-07-24,Sport T-Shirt,Cairo,4,350,1400
+2026-07-25,Full Tracksuit,Alexandria,3,1100,3300
+2026-07-25,Hoodie,Giza,3,750,2250
+2026-07-25,Sport Socks,Giza,4,80,320
+2026-07-25,Backpack,Cairo,2,650,1300
+2026-07-25,Gym Shorts,Assiut,4,300,1200
+2026-07-25,Gym Bag,Giza,2,450,900
+2026-07-25,Full Tracksuit,Mansoura,1,1100,1100
+2026-07-25,Sport Socks,Cairo,1,80,80
+2026-07-25,Hoodie,Cairo,1,750,750
+2026-07-25,Cap,Giza,2,180,360
+2026-07-25,Cap,Cairo,1,180,180
+2026-07-25,Gym Shorts,Cairo,1,300,300
+2026-07-26,Full Tracksuit,Alexandria,1,1100,1100
+2026-07-26,Cap,Mansoura,2,180,360
+2026-07-26,Water Bottle,Giza,3,120,360
+2026-07-26,Sport Socks,Giza,3,80,240
+2026-07-26,Sport T-Shirt,Cairo,2,350,700
+2026-07-26,Hoodie,Assiut,1,750,750
+2026-07-26,Sport Socks,Cairo,4,80,320
+2026-07-26,Sport Socks,Alexandria,4,80,320
+2026-07-26,Water Bottle,Giza,2,120,240
+2026-07-26,Gym Bag,Giza,2,450,900
+2026-07-27,Backpack,Cairo,2,650,1300
+2026-07-27,Gym Shorts,Assiut,2,300,600
+2026-07-27,Sport Socks,Cairo,4,80,320
+2026-07-27,Gym Shorts,Cairo,2,300,600
+2026-07-27,Training Gloves,Cairo,1,200,200
+2026-07-27,Water Bottle,Alexandria,4,120,480
+2026-07-27,Gym Shorts,Cairo,3,300,900
+2026-07-28,Training Gloves,Giza,1,200,200
+2026-07-28,Sport T-Shirt,Alexandria,3,350,1050
+2026-07-28,Full Tracksuit,Cairo,4,1100,4400
+2026-07-28,Cap,Mansoura,1,180,180
+2026-07-28,Sport T-Shirt,Alexandria,2,350,700
+2026-07-28,Sport T-Shirt,Cairo,2,350,700
+2026-07-28,Full Tracksuit,Giza,1,1100,1100
+2026-07-28,Sport Jacket,Cairo,3,900,2700
+2026-07-29,Hoodie,Cairo,3,750,2250
+2026-07-29,Full Tracksuit,Cairo,3,1100,3300
+2026-07-29,Leggings,Cairo,2,400,800
+2026-07-29,Sport Socks,Cairo,3,80,240
+2026-07-29,Sport T-Shirt,Cairo,2,350,700
+2026-07-29,Full Tracksuit,Alexandria,2,1100,2200
+2026-07-30,Gym Bag,Alexandria,2,450,900
+2026-07-30,Hoodie,Giza,1,750,750
+2026-07-30,Sport Socks,Giza,4,80,320
+2026-07-30,Full Tracksuit,Cairo,1,1100,1100
+2026-07-30,Sport T-Shirt,Cairo,2,350,700
+2026-07-30,Sport Socks,Giza,1,80,80
+2026-07-31,Sport Socks,Giza,2,80,160
+2026-07-31,Cap,Cairo,1,180,180
+2026-07-31,Sport T-Shirt,Cairo,4,350,1400
+2026-07-31,Sport Jacket,Giza,3,900,2700
+2026-07-31,Leggings,Alexandria,3,400,1200
+2026-07-31,Sport T-Shirt,Giza,4,350,1400
+2026-08-01,Full Tracksuit,Giza,1,1100,1100
+2026-08-01,Full Tracksuit,Cairo,2,1100,2200
+2026-08-01,Hoodie,Cairo,1,750,750
+2026-08-01,Cap,Giza,2,180,360
+2026-08-01,Sport T-Shirt,Cairo,2,350,700
+2026-08-01,Gym Shorts,Cairo,1,300,300
+2026-08-01,Water Bottle,Cairo,2,120,240
+2026-08-01,Sport T-Shirt,Cairo,3,350,1050
+2026-08-01,Hoodie,Alexandria,4,750,3000
+2026-08-01,Gym Shorts,Cairo,2,300,600
+2026-08-01,Gym Shorts,Alexandria,2,300,600
+2026-08-01,Full Tracksuit,Cairo,3,1100,3300
+2026-08-01,Gym Shorts,Cairo,2,300,600
+2026-08-02,Full Tracksuit,Giza,1,1100,1100
+2026-08-02,Sport T-Shirt,Cairo,1,350,350
+2026-08-02,Water Bottle,Cairo,3,120,360
+2026-08-02,Cap,Giza,4,180,720
+2026-08-02,Training Gloves,Cairo,1,200,200
+2026-08-02,Sport T-Shirt,Cairo,2,350,700
+2026-08-02,Training Gloves,Cairo,3,200,600
+2026-08-02,Sport Socks,Alexandria,3,80,240
+2026-08-02,Gym Shorts,Mansoura,1,300,300
+2026-08-02,Sport Jacket,Giza,4,900,3600
+2026-08-02,Hoodie,Cairo,2,750,1500
+2026-08-02,Gym Shorts,Cairo,2,300,600
+2026-08-02,Gym Shorts,Giza,2,300,600
+2026-08-02,Sport T-Shirt,Alexandria,4,350,1400
+2026-08-02,Full Tracksuit,Alexandria,2,1100,2200
+2026-08-02,Gym Bag,Assiut,1,450,450
+2026-08-02,Gym Shorts,Giza,4,300,1200
+2026-08-03,Gym Bag,Cairo,3,450,1350
+2026-08-03,Cap,Cairo,1,180,180
+2026-08-03,Hoodie,Giza,3,750,2250
+2026-08-03,Gym Bag,Giza,4,450,1800
+2026-08-03,Hoodie,Cairo,4,750,3000
+2026-08-03,Gym Shorts,Mansoura,4,300,1200
+2026-08-04,Sport Socks,Alexandria,3,80,240
+2026-08-04,Full Tracksuit,Alexandria,1,1100,1100
+2026-08-04,Cap,Cairo,2,180,360
+2026-08-04,Sport T-Shirt,Alexandria,2,350,700
+2026-08-04,Water Bottle,Giza,2,120,240
+2026-08-04,Training Gloves,Cairo,4,200,800
+2026-08-04,Sport T-Shirt,Giza,2,350,700
+2026-08-04,Gym Shorts,Alexandria,2,300,600
+2026-08-04,Sport T-Shirt,Mansoura,3,350,1050
+2026-08-04,Gym Bag,Assiut,4,450,1800
+2026-08-04,Leggings,Cairo,4,400,1600
+2026-08-05,Hoodie,Cairo,1,750,750
+2026-08-05,Full Tracksuit,Giza,3,1100,3300
+2026-08-05,Gym Bag,Cairo,4,450,1800
+2026-08-05,Sport Socks,Cairo,1,80,80
+2026-08-05,Sport T-Shirt,Cairo,4,350,1400
+2026-08-05,Sport T-Shirt,Cairo,1,350,350
+2026-08-05,Gym Shorts,Cairo,3,300,900
+2026-08-05,Water Bottle,Cairo,1,120,120
+2026-08-05,Full Tracksuit,Alexandria,2,1100,2200
+2026-08-05,Leggings,Mansoura,1,400,400
+2026-08-05,Full Tracksuit,Giza,3,1100,3300
+2026-08-05,Training Gloves,Cairo,1,200,200
+2026-08-05,Training Gloves,Cairo,3,200,600
+2026-08-05,Water Bottle,Alexandria,3,120,360
+2026-08-05,Sport T-Shirt,Alexandria,2,350,700
+2026-08-05,Gym Bag,Giza,4,450,1800
+2026-08-06,Water Bottle,Alexandria,1,120,120
+2026-08-06,Leggings,Cairo,1,400,400
+2026-08-06,Sport T-Shirt,Cairo,2,350,700
+2026-08-06,Backpack,Cairo,2,650,1300
+2026-08-06,Sport T-Shirt,Alexandria,3,350,1050
+2026-08-06,Sport Socks,Mansoura,3,80,240
+2026-08-06,Training Gloves,Alexandria,1,200,200
+2026-08-06,Hoodie,Assiut,2,750,1500
+2026-08-06,Full Tracksuit,Assiut,3,1100,3300
+2026-08-06,Gym Shorts,Assiut,3,300,900
+2026-08-06,Gym Shorts,Cairo,2,300,600
+2026-08-06,Sport T-Shirt,Assiut,4,350,1400
+2026-08-07,Sport T-Shirt,Giza,4,350,1400
+2026-08-07,Training Gloves,Cairo,1,200,200
+2026-08-07,Hoodie,Mansoura,2,750,1500
+2026-08-07,Sport Socks,Mansoura,2,80,160
+2026-08-07,Gym Bag,Cairo,4,450,1800
+2026-08-07,Gym Shorts,Giza,4,300,1200
+2026-08-07,Sport Socks,Giza,2,80,160
+2026-08-07,Hoodie,Alexandria,4,750,3000
+2026-08-07,Gym Shorts,Mansoura,4,300,1200
+2026-08-07,Sport Socks,Mansoura,1,80,80
+2026-08-07,Sport T-Shirt,Cairo,4,350,1400
+2026-08-07,Gym Shorts,Giza,2,300,600
+2026-08-07,Sport Socks,Cairo,2,80,160
+2026-08-07,Sport T-Shirt,Cairo,2,350,700
+2026-08-07,Hoodie,Alexandria,3,750,2250
+2026-08-08,Gym Shorts,Cairo,4,300,1200
+2026-08-08,Water Bottle,Alexandria,1,120,120
+2026-08-08,Sport T-Shirt,Mansoura,2,350,700
+2026-08-08,Leggings,Cairo,4,400,1600
+2026-08-08,Gym Shorts,Assiut,2,300,600
+2026-08-08,Leggings,Alexandria,4,400,1600
+2026-08-08,Training Gloves,Alexandria,2,200,400
+2026-08-08,Water Bottle,Alexandria,4,120,480
+2026-08-08,Full Tracksuit,Alexandria,4,1100,4400
+2026-08-08,Hoodie,Alexandria,4,750,3000
+2026-08-08,Sport Socks,Mansoura,3,80,240
+2026-08-09,Gym Shorts,Alexandria,1,300,300
+2026-08-09,Hoodie,Alexandria,1,750,750
+2026-08-09,Sport Socks,Cairo,2,80,160
+2026-08-09,Gym Shorts,Cairo,3,300,900
+2026-08-09,Sport Socks,Cairo,4,80,320
+2026-08-09,Full Tracksuit,Assiut,4,1100,4400
+2026-08-09,Hoodie,Assiut,4,750,3000
+2026-08-09,Gym Shorts,Giza,1,300,300
+2026-08-09,Hoodie,Giza,4,750,3000
+2026-08-09,Sport Jacket,Cairo,4,900,3600
+2026-08-09,Sport Jacket,Giza,3,900,2700
+2026-08-10,Cap,Cairo,2,180,360
+2026-08-10,Training Gloves,Alexandria,4,200,800
+2026-08-10,Leggings,Assiut,4,400,1600
+2026-08-10,Sport T-Shirt,Cairo,3,350,1050
+2026-08-10,Hoodie,Assiut,2,750,1500
+2026-08-10,Gym Bag,Alexandria,4,450,1800
+2026-08-10,Hoodie,Cairo,1,750,750
+2026-08-10,Gym Shorts,Assiut,3,300,900
+2026-08-10,Sport Socks,Giza,3,80,240
+2026-08-10,Sport Socks,Giza,1,80,80
+2026-08-10,Hoodie,Cairo,1,750,750
+2026-08-11,Sport T-Shirt,Giza,1,350,350
+2026-08-11,Leggings,Cairo,2,400,800
+2026-08-11,Gym Bag,Alexandria,1,450,450
+2026-08-11,Full Tracksuit,Mansoura,1,1100,1100
+2026-08-11,Leggings,Cairo,3,400,1200
+2026-08-11,Sport T-Shirt,Assiut,1,350,350
+2026-08-11,Leggings,Giza,4,400,1600
+2026-08-11,Sport T-Shirt,Assiut,4,350,1400
+2026-08-11,Sport T-Shirt,Giza,4,350,1400
+2026-08-11,Gym Shorts,Cairo,4,300,1200
+2026-08-11,Gym Bag,Alexandria,2,450,900
+2026-08-11,Sport Socks,Alexandria,2,80,160
+2026-08-11,Full Tracksuit,Giza,4,1100,4400
+2026-08-12,Sport T-Shirt,Alexandria,3,350,1050
+2026-08-12,Gym Bag,Alexandria,1,450,450
+2026-08-12,Gym Shorts,Cairo,4,300,1200
+2026-08-12,Gym Shorts,Assiut,3,300,900
+2026-08-13,Water Bottle,Giza,3,120,360
+2026-08-13,Full Tracksuit,Alexandria,2,1100,2200
+2026-08-13,Water Bottle,Cairo,2,120,240
+2026-08-13,Cap,Cairo,3,180,540
+2026-08-13,Gym Shorts,Alexandria,3,300,900
+2026-08-13,Gym Bag,Assiut,4,450,1800
+2026-08-13,Sport Socks,Alexandria,1,80,80
+2026-08-13,Full Tracksuit,Cairo,4,1100,4400
+2026-08-13,Sport T-Shirt,Cairo,2,350,700
+2026-08-13,Gym Shorts,Cairo,4,300,1200
+2026-08-13,Sport Jacket,Assiut,1,900,900
+2026-08-13,Sport T-Shirt,Alexandria,1,350,350
+2026-08-13,Sport T-Shirt,Mansoura,1,350,350
+2026-08-14,Full Tracksuit,Giza,3,1100,3300
+2026-08-14,Training Gloves,Giza,3,200,600
+2026-08-14,Gym Shorts,Cairo,1,300,300
+2026-08-14,Water Bottle,Cairo,4,120,480
+2026-08-14,Gym Bag,Cairo,1,450,450
+2026-08-14,Full Tracksuit,Alexandria,2,1100,2200
+2026-08-14,Gym Shorts,Alexandria,3,300,900
+2026-08-14,Training Gloves,Alexandria,3,200,600
+2026-08-14,Sport T-Shirt,Giza,3,350,1050
+2026-08-14,Hoodie,Giza,4,750,3000
+2026-08-14,Sport T-Shirt,Alexandria,4,350,1400
+2026-08-15,Gym Shorts,Cairo,3,300,900
+2026-08-15,Full Tracksuit,Cairo,1,1100,1100
+2026-08-15,Sport Socks,Giza,1,80,80
+2026-08-15,Cap,Cairo,3,180,540
+2026-08-15,Training Gloves,Cairo,1,200,200
+2026-08-15,Gym Bag,Alexandria,2,450,900
+2026-08-15,Sport T-Shirt,Mansoura,3,350,1050
+2026-08-15,Sport T-Shirt,Alexandria,4,350,1400
+2026-08-15,Sport T-Shirt,Assiut,4,350,1400
+2026-08-15,Sport T-Shirt,Cairo,2,350,700
+2026-08-15,Sport T-Shirt,Alexandria,2,350,700
+2026-08-15,Sport T-Shirt,Giza,2,350,700
+2026-08-15,Sport Jacket,Cairo,3,900,2700
+2026-08-15,Gym Shorts,Alexandria,1,300,300
+2026-08-15,Sport T-Shirt,Cairo,3,350,1050
+2026-08-16,Sport Socks,Alexandria,4,80,320
+2026-08-16,Gym Shorts,Alexandria,1,300,300
+2026-08-16,Full Tracksuit,Giza,4,1100,4400
+2026-08-16,Hoodie,Cairo,3,750,2250
+2026-08-16,Full Tracksuit,Giza,2,1100,2200
+2026-08-16,Water Bottle,Mansoura,4,120,480
+2026-08-16,Gym Shorts,Alexandria,3,300,900
+2026-08-16,Sport Socks,Assiut,4,80,320
+2026-08-16,Sport T-Shirt,Giza,1,350,350
+2026-08-16,Gym Bag,Alexandria,3,450,1350
+2026-08-17,Sport T-Shirt,Alexandria,4,350,1400
+2026-08-17,Full Tracksuit,Giza,2,1100,2200
+2026-08-17,Sport T-Shirt,Cairo,2,350,700
+2026-08-17,Sport T-Shirt,Giza,4,350,1400
+2026-08-17,Gym Shorts,Cairo,4,300,1200
+2026-08-17,Sport T-Shirt,Giza,3,350,1050
+2026-08-17,Sport T-Shirt,Cairo,3,350,1050
+2026-08-17,Gym Shorts,Alexandria,2,300,600
+2026-08-17,Gym Bag,Alexandria,3,450,1350
+2026-08-17,Full Tracksuit,Assiut,3,1100,3300
+2026-08-17,Hoodie,Cairo,3,750,2250
+2026-08-18,Gym Bag,Cairo,4,450,1800
+2026-08-18,Water Bottle,Mansoura,2,120,240
+2026-08-18,Training Gloves,Cairo,3,200,600
+2026-08-18,Hoodie,Cairo,2,750,1500
+2026-08-18,Training Gloves,Cairo,2,200,400
+2026-08-18,Gym Shorts,Cairo,3,300,900
+2026-08-18,Gym Bag,Alexandria,2,450,900
+2026-08-18,Cap,Cairo,4,180,720
+2026-08-18,Leggings,Alexandria,4,400,1600
+2026-08-18,Full Tracksuit,Assiut,1,1100,1100
+2026-08-18,Sport Socks,Cairo,2,80,160
+2026-08-18,Sport Socks,Mansoura,4,80,320
+2026-08-18,Full Tracksuit,Assiut,4,1100,4400
+2026-08-19,Sport T-Shirt,Giza,2,350,700
+2026-08-19,Sport T-Shirt,Cairo,4,350,1400
+2026-08-19,Gym Shorts,Alexandria,3,300,900
+2026-08-19,Hoodie,Giza,2,750,1500
+2026-08-19,Full Tracksuit,Cairo,4,1100,4400
+2026-08-19,Sport Socks,Cairo,3,80,240
+2026-08-19,Hoodie,Cairo,2,750,1500
+2026-08-19,Training Gloves,Mansoura,2,200,400
+2026-08-19,Gym Bag,Cairo,2,450,900
+2026-08-19,Water Bottle,Alexandria,2,120,240
+2026-08-20,Hoodie,Mansoura,2,750,1500
+2026-08-20,Gym Bag,Assiut,1,450,450
+2026-08-20,Sport T-Shirt,Assiut,3,350,1050
+2026-08-20,Gym Bag,Assiut,4,450,1800
+2026-08-20,Full Tracksuit,Cairo,2,1100,2200
+2026-08-20,Hoodie,Cairo,2,750,1500
+2026-08-20,Cap,Cairo,1,180,180
+2026-08-20,Hoodie,Giza,1,750,750
+2026-08-21,Full Tracksuit,Assiut,2,1100,2200
+2026-08-21,Training Gloves,Mansoura,4,200,800
+2026-08-21,Gym Shorts,Cairo,4,300,1200
+2026-08-21,Water Bottle,Cairo,3,120,360
+2026-08-21,Sport T-Shirt,Alexandria,1,350,350
+2026-08-21,Gym Bag,Mansoura,2,450,900
+2026-08-21,Sport T-Shirt,Giza,1,350,350
+2026-08-21,Cap,Alexandria,2,180,360
+2026-08-21,Training Gloves,Cairo,3,200,600
+2026-08-21,Gym Bag,Giza,4,450,1800
+2026-08-21,Full Tracksuit,Cairo,4,1100,4400
+2026-08-21,Sport T-Shirt,Cairo,2,350,700
+2026-08-22,Gym Shorts,Giza,2,300,600
+2026-08-22,Gym Shorts,Cairo,3,300,900
+2026-08-22,Training Gloves,Giza,4,200,800
+2026-08-22,Gym Shorts,Cairo,1,300,300
+2026-08-22,Full Tracksuit,Cairo,1,1100,1100
+2026-08-22,Gym Shorts,Mansoura,3,300,900
+2026-08-22,Leggings,Giza,1,400,400
+2026-08-22,Gym Shorts,Cairo,1,300,300
+2026-08-22,Gym Shorts,Cairo,2,300,600
+2026-08-22,Gym Shorts,Alexandria,4,300,1200
+2026-08-23,Hoodie,Assiut,2,750,1500
+2026-08-23,Sport T-Shirt,Alexandria,4,350,1400
+2026-08-23,Training Gloves,Giza,2,200,400
+2026-08-23,Cap,Cairo,2,180,360
+2026-08-23,Gym Shorts,Cairo,3,300,900
+2026-08-23,Sport T-Shirt,Cairo,4,350,1400
+2026-08-23,Full Tracksuit,Giza,2,1100,2200
+2026-08-23,Sport T-Shirt,Giza,1,350,350
+2026-08-23,Sport Socks,Alexandria,3,80,240
+2026-08-23,Sport T-Shirt,Mansoura,4,350,1400
+2026-08-23,Training Gloves,Cairo,4,200,800
+2026-08-23,Full Tracksuit,Cairo,2,1100,2200
+2026-08-23,Gym Shorts,Cairo,1,300,300
+2026-08-23,Sport Socks,Cairo,2,80,160
+2026-08-24,Hoodie,Cairo,4,750,3000
+2026-08-24,Sport T-Shirt,Cairo,3,350,1050
+2026-08-24,Hoodie,Mansoura,3,750,2250
+2026-08-24,Water Bottle,Giza,3,120,360
+2026-08-24,Sport T-Shirt,Giza,1,350,350
+2026-08-24,Hoodie,Mansoura,2,750,1500
+2026-08-24,Hoodie,Giza,3,750,2250
+2026-08-24,Gym Shorts,Assiut,2,300,600
+2026-08-24,Cap,Cairo,3,180,540
+2026-08-24,Gym Shorts,Cairo,3,300,900
+2026-08-25,Hoodie,Cairo,4,750,3000
+2026-08-25,Sport Socks,Alexandria,3,80,240
+2026-08-25,Cap,Alexandria,3,180,540
+2026-08-25,Water Bottle,Cairo,3,120,360
+2026-08-25,Water Bottle,Assiut,1,120,120
+2026-08-25,Hoodie,Cairo,1,750,750
+2026-08-25,Hoodie,Cairo,3,750,2250
+2026-08-25,Full Tracksuit,Cairo,2,1100,2200
+2026-08-26,Cap,Cairo,4,180,720
+2026-08-26,Hoodie,Cairo,2,750,1500
+2026-08-26,Gym Shorts,Cairo,1,300,300
+2026-08-26,Full Tracksuit,Giza,3,1100,3300
+2026-08-26,Sport Socks,Cairo,3,80,240
+2026-08-26,Hoodie,Cairo,2,750,1500
+2026-08-27,Sport T-Shirt,Alexandria,1,350,350
+2026-08-27,Training Gloves,Giza,1,200,200
+2026-08-27,Gym Shorts,Alexandria,4,300,1200
+2026-08-27,Water Bottle,Cairo,3,120,360
+2026-08-27,Gym Shorts,Mansoura,3,300,900
+2026-08-27,Sport T-Shirt,Alexandria,4,350,1400
+2026-08-27,Training Gloves,Giza,2,200,400
+2026-08-28,Training Gloves,Alexandria,3,200,600
+2026-08-28,Cap,Alexandria,3,180,540
+2026-08-28,Leggings,Giza,3,400,1200
+2026-08-28,Full Tracksuit,Alexandria,2,1100,2200
+2026-08-28,Full Tracksuit,Alexandria,3,1100,3300
+2026-08-28,Full Tracksuit,Cairo,3,1100,3300
+2026-08-28,Water Bottle,Cairo,1,120,120
+2026-08-28,Sport Jacket,Giza,4,900,3600
+2026-08-28,Full Tracksuit,Cairo,4,1100,4400
+2026-08-28,Full Tracksuit,Mansoura,3,1100,3300
+2026-08-28,Cap,Alexandria,2,180,360
+2026-08-28,Gym Shorts,Cairo,4,300,1200
+2026-08-28,Full Tracksuit,Alexandria,1,1100,1100
+2026-08-29,Hoodie,Cairo,2,750,1500
+2026-08-29,Gym Shorts,Cairo,3,300,900
+2026-08-29,Full Tracksuit,Assiut,3,1100,3300
+2026-08-29,Training Gloves,Mansoura,1,200,200
+2026-08-29,Sport Socks,Cairo,1,80,80
+2026-08-29,Sport T-Shirt,Giza,2,350,700
+2026-08-29,Sport Socks,Assiut,1,80,80
+2026-08-29,Gym Shorts,Giza,3,300,900
+2026-08-29,Full Tracksuit,Cairo,1,1100,1100
+2026-08-29,Sport T-Shirt,Alexandria,3,350,1050
+2026-08-30,Gym Shorts,Giza,4,300,1200
+2026-08-30,Sport T-Shirt,Alexandria,1,350,350
+2026-08-30,Sport T-Shirt,Giza,1,350,350
+2026-08-30,Sport Jacket,Cairo,4,900,3600
+2026-08-30,Hoodie,Cairo,2,750,1500
+2026-08-30,Hoodie,Assiut,1,750,750
+2026-08-30,Gym Shorts,Cairo,4,300,1200
+2026-08-31,Hoodie,Cairo,3,750,2250
+2026-08-31,Sport T-Shirt,Assiut,1,350,350
+2026-08-31,Sport Socks,Giza,4,80,320
+2026-08-31,Full Tracksuit,Alexandria,4,1100,4400
+2026-08-31,Sport Jacket,Giza,1,900,900
+2026-08-31,Gym Shorts,Cairo,2,300,600
+2026-08-31,Sport T-Shirt,Giza,2,350,700
+2026-09-01,Water Bottle,Assiut,2,120,240
+2026-09-01,Hoodie,Assiut,3,750,2250
+2026-09-01,Sport T-Shirt,Cairo,2,350,700
+2026-09-01,Sport Socks,Alexandria,2,80,160
+2026-09-01,Training Gloves,Cairo,2,200,400
+2026-09-01,Full Tracksuit,Cairo,4,1100,4400
+2026-09-01,Hoodie,Cairo,4,750,3000
+2026-09-01,Training Gloves,Cairo,1,200,200
+2026-09-01,Full Tracksuit,Alexandria,1,1100,1100
+2026-09-02,Cap,Mansoura,4,180,720
+2026-09-02,Sport Socks,Giza,1,80,80
+2026-09-02,Sport Socks,Giza,1,80,80
+2026-09-02,Training Gloves,Cairo,2,200,400
+2026-09-02,Gym Shorts,Alexandria,4,300,1200
+2026-09-02,Hoodie,Cairo,1,750,750
+2026-09-02,Sport T-Shirt,Mansoura,3,350,1050
+2026-09-03,Gym Bag,Giza,1,450,450
+2026-09-03,Water Bottle,Cairo,3,120,360
+2026-09-03,Training Gloves,Alexandria,2,200,400
+2026-09-03,Sport Socks,Cairo,1,80,80
+2026-09-03,Sport Socks,Cairo,3,80,240
+2026-09-03,Sport T-Shirt,Cairo,1,350,350
+2026-09-03,Hoodie,Assiut,2,750,1500
+2026-09-03,Full Tracksuit,Mansoura,3,1100,3300
+2026-09-03,Gym Shorts,Cairo,1,300,300
+2026-09-03,Hoodie,Alexandria,1,750,750
+2026-09-03,Cap,Mansoura,1,180,180
+2026-09-04,Hoodie,Cairo,2,750,1500
+2026-09-04,Sport Socks,Alexandria,4,80,320
+2026-09-04,Hoodie,Assiut,4,750,3000
+2026-09-04,Gym Shorts,Assiut,3,300,900
+2026-09-04,Cap,Cairo,2,180,360
+2026-09-04,Gym Shorts,Cairo,1,300,300
+2026-09-04,Hoodie,Cairo,3,750,2250
+2026-09-04,Sport Socks,Cairo,3,80,240
+2026-09-04,Full Tracksuit,Cairo,2,1100,2200
+2026-09-04,Gym Shorts,Alexandria,2,300,600
+2026-09-04,Full Tracksuit,Cairo,2,1100,2200
+2026-09-04,Sport Socks,Alexandria,2,80,160
+2026-09-04,Water Bottle,Alexandria,1,120,120
+2026-09-04,Sport T-Shirt,Cairo,1,350,350
+2026-09-04,Sport T-Shirt,Cairo,2,350,700
+2026-09-04,Full Tracksuit,Cairo,4,1100,4400
+2026-09-04,Cap,Cairo,4,180,720
+2026-09-04,Sport T-Shirt,Alexandria,3,350,1050
+2026-09-05,Full Tracksuit,Cairo,1,1100,1100
+2026-09-05,Water Bottle,Cairo,1,120,120
+2026-09-05,Gym Bag,Giza,4,450,1800
+2026-09-05,Sport T-Shirt,Cairo,3,350,1050
+2026-09-06,Training Gloves,Cairo,3,200,600
+2026-09-06,Sport T-Shirt,Alexandria,3,350,1050
+2026-09-06,Gym Shorts,Assiut,1,300,300
+2026-09-06,Sport T-Shirt,Alexandria,3,350,1050
+2026-09-06,Water Bottle,Alexandria,2,120,240
+2026-09-06,Cap,Assiut,3,180,540
+2026-09-06,Sport T-Shirt,Assiut,2,350,700
+2026-09-06,Gym Shorts,Cairo,3,300,900
+2026-09-06,Sport Socks,Assiut,4,80,320
+2026-09-06,Hoodie,Giza,3,750,2250
+2026-09-06,Sport Socks,Assiut,1,80,80
+2026-09-06,Gym Shorts,Cairo,4,300,1200
+2026-09-06,Gym Bag,Cairo,2,450,900
+2026-09-06,Gym Shorts,Cairo,2,300,600
+2026-09-07,Backpack,Cairo,3,650,1950
+2026-09-07,Training Gloves,Cairo,4,200,800
+2026-09-07,Sport Jacket,Cairo,4,900,3600
+2026-09-07,Hoodie,Giza,3,750,2250
+2026-09-07,Sport Jacket,Cairo,4,900,3600
+2026-09-07,Sport T-Shirt,Assiut,4,350,1400
+2026-09-07,Gym Shorts,Cairo,3,300,900
+2026-09-07,Full Tracksuit,Mansoura,4,1100,4400
+2026-09-08,Full Tracksuit,Alexandria,1,1100,1100
+2026-09-08,Leggings,Cairo,2,400,800
+2026-09-08,Sport Socks,Cairo,1,80,80
+2026-09-08,Hoodie,Alexandria,1,750,750
+2026-09-08,Water Bottle,Giza,1,120,120
+2026-09-08,Sport Socks,Assiut,3,80,240
+2026-09-08,Sport T-Shirt,Assiut,2,350,700
+2026-09-08,Gym Shorts,Cairo,3,300,900
+2026-09-08,Leggings,Alexandria,3,400,1200
+2026-09-08,Water Bottle,Assiut,2,120,240
+2026-09-08,Sport Socks,Cairo,2,80,160
+2026-09-09,Sport T-Shirt,Cairo,4,350,1400
+2026-09-09,Full Tracksuit,Alexandria,1,1100,1100
+2026-09-09,Leggings,Cairo,4,400,1600
+2026-09-09,Sport Socks,Giza,1,80,80
+2026-09-09,Hoodie,Cairo,3,750,2250
+2026-09-09,Full Tracksuit,Alexandria,4,1100,4400
+2026-09-09,Sport Socks,Mansoura,3,80,240
+2026-09-09,Gym Shorts,Giza,3,300,900
+2026-09-09,Sport Socks,Alexandria,3,80,240
+2026-09-09,Hoodie,Cairo,1,750,750
+2026-09-09,Sport T-Shirt,Cairo,3,350,1050
+2026-09-10,Cap,Assiut,1,180,180
+2026-09-10,Gym Bag,Cairo,2,450,900
+2026-09-10,Training Gloves,Alexandria,3,200,600
+2026-09-10,Water Bottle,Mansoura,4,120,480
+2026-09-10,Gym Shorts,Alexandria,3,300,900
+2026-09-10,Full Tracksuit,Assiut,1,1100,1100
+2026-09-10,Cap,Cairo,4,180,720
+2026-09-10,Sport Jacket,Mansoura,1,900,900
+2026-09-10,Sport T-Shirt,Cairo,2,350,700
+2026-09-10,Gym Shorts,Cairo,2,300,600
+2026-09-11,Hoodie,Alexandria,4,750,3000
+2026-09-11,Water Bottle,Cairo,3,120,360
+2026-09-11,Gym Shorts,Assiut,4,300,1200
+2026-09-11,Training Gloves,Cairo,2,200,400
+2026-09-11,Cap,Cairo,2,180,360
+2026-09-11,Training Gloves,Cairo,2,200,400
+2026-09-11,Sport Jacket,Mansoura,4,900,3600
+2026-09-11,Full Tracksuit,Giza,2,1100,2200
+2026-09-11,Gym Bag,Mansoura,2,450,900
+2026-09-11,Sport T-Shirt,Cairo,3,350,1050
+2026-09-12,Sport T-Shirt,Alexandria,4,350,1400
+2026-09-12,Training Gloves,Assiut,1,200,200
+2026-09-12,Training Gloves,Cairo,2,200,400
+2026-09-12,Gym Shorts,Alexandria,3,300,900
+2026-09-12,Full Tracksuit,Assiut,1,1100,1100
+2026-09-13,Full Tracksuit,Giza,2,1100,2200
+2026-09-13,Full Tracksuit,Cairo,4,1100,4400
+2026-09-13,Cap,Alexandria,4,180,720
+2026-09-13,Hoodie,Cairo,4,750,3000
+2026-09-13,Training Gloves,Cairo,3,200,600
+2026-09-13,Gym Shorts,Alexandria,2,300,600
+2026-09-13,Training Gloves,Cairo,3,200,600
+2026-09-13,Gym Bag,Giza,2,450,900
+2026-09-13,Training Gloves,Cairo,1,200,200
+2026-09-13,Gym Shorts,Alexandria,3,300,900
+2026-09-13,Gym Shorts,Assiut,4,300,1200
+2026-09-14,Gym Shorts,Cairo,4,300,1200
+2026-09-14,Sport T-Shirt,Alexandria,4,350,1400
+2026-09-14,Gym Shorts,Alexandria,2,300,600
+2026-09-14,Full Tracksuit,Cairo,1,1100,1100
+2026-09-14,Sport Socks,Alexandria,1,80,80
+2026-09-14,Hoodie,Alexandria,2,750,1500
+2026-09-14,Sport T-Shirt,Cairo,4,350,1400
+2026-09-14,Full Tracksuit,Mansoura,1,1100,1100
+2026-09-14,Training Gloves,Cairo,3,200,600
+2026-09-15,Sport T-Shirt,Cairo,3,350,1050
+2026-09-15,Cap,Giza,1,180,180
+2026-09-15,Hoodie,Giza,1,750,750
+2026-09-15,Hoodie,Cairo,1,750,750
+2026-09-15,Full Tracksuit,Giza,3,1100,3300
+2026-09-15,Full Tracksuit,Mansoura,2,1100,2200
+2026-09-15,Full Tracksuit,Mansoura,4,1100,4400
+2026-09-16,Hoodie,Alexandria,1,750,750
+2026-09-16,Gym Shorts,Cairo,2,300,600
+2026-09-16,Gym Shorts,Cairo,4,300,1200
+2026-09-16,Gym Shorts,Alexandria,3,300,900
+2026-09-16,Gym Shorts,Alexandria,4,300,1200
+2026-09-16,Cap,Cairo,2,180,360
+2026-09-16,Training Gloves,Giza,3,200,600
+2026-09-16,Hoodie,Cairo,3,750,2250
+2026-09-16,Cap,Giza,2,180,360
+2026-09-17,Cap,Cairo,2,180,360
+2026-09-17,Hoodie,Cairo,4,750,3000
+2026-09-17,Hoodie,Alexandria,1,750,750
+2026-09-17,Full Tracksuit,Alexandria,3,1100,3300
+2026-09-17,Cap,Giza,2,180,360
+2026-09-17,Sport T-Shirt,Giza,1,350,350
+2026-09-17,Hoodie,Giza,3,750,2250
+2026-09-17,Sport T-Shirt,Assiut,1,350,350
+2026-09-17,Full Tracksuit,Cairo,1,1100,1100
+2026-09-17,Training Gloves,Assiut,2,200,400
+2026-09-17,Full Tracksuit,Cairo,3,1100,3300
+2026-09-18,Gym Bag,Alexandria,4,450,1800
+2026-09-18,Sport Jacket,Cairo,4,900,3600
+2026-09-18,Gym Shorts,Cairo,4,300,1200
+2026-09-18,Gym Shorts,Cairo,2,300,600
+2026-09-18,Hoodie,Alexandria,2,750,1500
+2026-09-18,Hoodie,Cairo,3,750,2250
+2026-09-18,Water Bottle,Cairo,2,120,240
+2026-09-18,Gym Bag,Cairo,3,450,1350
+2026-09-19,Hoodie,Alexandria,1,750,750
+2026-09-19,Gym Shorts,Giza,2,300,600
+2026-09-19,Hoodie,Cairo,1,750,750
+2026-09-19,Hoodie,Alexandria,3,750,2250
+2026-09-19,Sport T-Shirt,Assiut,2,350,700
+2026-09-19,Sport T-Shirt,Cairo,3,350,1050
+2026-09-19,Sport T-Shirt,Giza,1,350,350
+2026-09-19,Cap,Giza,1,180,180
+2026-09-19,Leggings,Cairo,1,400,400
+2026-09-19,Sport Jacket,Cairo,2,900,1800
+2026-09-19,Full Tracksuit,Cairo,1,1100,1100
+2026-09-19,Gym Shorts,Alexandria,2,300,600
+2026-09-19,Cap,Cairo,3,180,540
+2026-09-19,Full Tracksuit,Giza,2,1100,2200
+2026-09-19,Gym Shorts,Cairo,4,300,1200
+2026-09-19,Sport Socks,Cairo,3,80,240
+2026-09-19,Sport T-Shirt,Giza,2,350,700
+2026-09-19,Gym Bag,Giza,3,450,1350
+2026-09-19,Sport T-Shirt,Mansoura,1,350,350
+2026-09-19,Gym Shorts,Mansoura,1,300,300
+2026-09-20,Water Bottle,Alexandria,4,120,480
+2026-09-20,Training Gloves,Cairo,2,200,400
+2026-09-20,Hoodie,Assiut,1,750,750
+2026-09-20,Full Tracksuit,Giza,1,1100,1100
+2026-09-20,Water Bottle,Giza,4,120,480
+2026-09-20,Sport T-Shirt,Cairo,1,350,350
+2026-09-20,Gym Shorts,Cairo,1,300,300
+2026-09-21,Hoodie,Alexandria,2,750,1500
+2026-09-21,Sport Socks,Cairo,3,80,240
+2026-09-21,Gym Shorts,Cairo,4,300,1200
+2026-09-21,Gym Bag,Cairo,2,450,900
+2026-09-21,Gym Shorts,Giza,2,300,600
+2026-09-21,Gym Shorts,Mansoura,1,300,300
+2026-09-21,Water Bottle,Cairo,1,120,120
+2026-09-21,Hoodie,Alexandria,1,750,750
+2026-09-22,Sport Socks,Giza,4,80,320
+2026-09-22,Hoodie,Cairo,3,750,2250
+2026-09-22,Sport Jacket,Mansoura,3,900,2700
+2026-09-22,Gym Bag,Assiut,2,450,900
+2026-09-22,Full Tracksuit,Cairo,3,1100,3300
+2026-09-22,Sport Socks,Giza,3,80,240
+2026-09-22,Hoodie,Alexandria,4,750,3000
+2026-09-22,Full Tracksuit,Alexandria,4,1100,4400
+2026-09-23,Training Gloves,Alexandria,4,200,800
+2026-09-23,Hoodie,Alexandria,1,750,750
+2026-09-23,Training Gloves,Mansoura,4,200,800
+2026-09-23,Leggings,Cairo,1,400,400
+2026-09-23,Hoodie,Giza,3,750,2250
+2026-09-23,Full Tracksuit,Giza,3,1100,3300
+2026-09-23,Gym Shorts,Alexandria,1,300,300
+2026-09-23,Training Gloves,Giza,4,200,800
+2026-09-23,Leggings,Assiut,1,400,400
+2026-09-23,Gym Shorts,Cairo,3,300,900
+2026-09-23,Sport T-Shirt,Cairo,2,350,700
+2026-09-24,Sport Socks,Alexandria,3,80,240
+2026-09-24,Hoodie,Assiut,4,750,3000
+2026-09-24,Hoodie,Giza,1,750,750
+2026-09-24,Gym Shorts,Assiut,4,300,1200
+2026-09-24,Gym Shorts,Assiut,4,300,1200
+2026-09-24,Water Bottle,Assiut,3,120,360
+2026-09-24,Hoodie,Alexandria,1,750,750
+2026-09-24,Full Tracksuit,Cairo,2,1100,2200
+2026-09-24,Water Bottle,Assiut,2,120,240
+2026-09-24,Gym Shorts,Cairo,1,300,300
+2026-09-25,Gym Bag,Alexandria,3,450,1350
+2026-09-25,Sport T-Shirt,Cairo,1,350,350
+2026-09-25,Hoodie,Alexandria,1,750,750
+2026-09-25,Full Tracksuit,Assiut,3,1100,3300
+2026-09-25,Gym Shorts,Alexandria,3,300,900
+2026-09-25,Leggings,Assiut,2,400,800
+2026-09-25,Hoodie,Cairo,2,750,1500
+2026-09-25,Gym Bag,Alexandria,4,450,1800
+2026-09-25,Gym Bag,Cairo,2,450,900
+2026-09-25,Hoodie,Cairo,3,750,2250
+2026-09-25,Water Bottle,Giza,4,120,480
+2026-09-25,Leggings,Cairo,2,400,800
+2026-09-25,Training Gloves,Cairo,1,200,200
+2026-09-25,Full Tracksuit,Giza,3,1100,3300
+2026-09-25,Water Bottle,Giza,2,120,240
+2026-09-26,Hoodie,Assiut,4,750,3000
+2026-09-26,Gym Shorts,Assiut,3,300,900
+2026-09-26,Gym Shorts,Giza,3,300,900
+2026-09-26,Gym Shorts,Cairo,2,300,600
+2026-09-26,Sport Socks,Cairo,1,80,80
+2026-09-26,Full Tracksuit,Assiut,4,1100,4400
+2026-09-26,Gym Shorts,Alexandria,2,300,600
+2026-09-26,Hoodie,Alexandria,3,750,2250
+2026-09-26,Gym Bag,Giza,3,450,1350
+2026-09-26,Sport T-Shirt,Mansoura,2,350,700
+2026-09-26,Gym Bag,Cairo,1,450,450
+2026-09-26,Cap,Alexandria,2,180,360
+2026-09-26,Training Gloves,Giza,2,200,400
+2026-09-26,Full Tracksuit,Giza,4,1100,4400
+2026-09-26,Sport Socks,Mansoura,4,80,320
+2026-09-26,Sport Jacket,Cairo,1,900,900
+2026-09-26,Sport T-Shirt,Cairo,2,350,700
+2026-09-27,Full Tracksuit,Alexandria,2,1100,2200
+2026-09-27,Leggings,Cairo,1,400,400
+2026-09-27,Training Gloves,Cairo,3,200,600
+2026-09-27,Cap,Cairo,4,180,720
+2026-09-27,Sport T-Shirt,Cairo,2,350,700
+2026-09-27,Backpack,Mansoura,2,650,1300
+2026-09-27,Backpack,Mansoura,3,650,1950
+2026-09-27,Sport T-Shirt,Cairo,3,350,1050
+2026-09-27,Hoodie,Alexandria,1,750,750
+2026-09-28,Gym Shorts,Giza,1,300,300
+2026-09-28,Sport Socks,Alexandria,3,80,240
+2026-09-28,Hoodie,Assiut,2,750,1500
+2026-09-28,Gym Bag,Cairo,2,450,900
+2026-09-28,Sport T-Shirt,Cairo,2,350,700
+2026-09-28,Gym Shorts,Alexandria,1,300,300
+2026-09-28,Gym Bag,Giza,3,450,1350
+2026-09-28,Sport T-Shirt,Cairo,3,350,1050
+2026-09-28,Gym Shorts,Cairo,1,300,300
+2026-09-28,Gym Bag,Giza,2,450,900
+2026-09-28,Hoodie,Giza,3,750,2250
+2026-09-29,Hoodie,Mansoura,2,750,1500
+2026-09-29,Training Gloves,Cairo,3,200,600
+2026-09-29,Sport T-Shirt,Cairo,3,350,1050
+2026-09-29,Sport T-Shirt,Alexandria,3,350,1050
+2026-09-29,Sport Socks,Giza,2,80,160
+2026-09-29,Gym Shorts,Mansoura,1,300,300
+2026-09-29,Hoodie,Assiut,4,750,3000
+2026-09-29,Sport Jacket,Giza,4,900,3600
+2026-09-29,Hoodie,Assiut,3,750,2250
+2026-09-29,Hoodie,Cairo,4,750,3000
+2026-09-29,Gym Shorts,Assiut,2,300,600
+2026-09-29,Sport T-Shirt,Giza,4,350,1400
+2026-09-29,Water Bottle,Cairo,2,120,240
+2026-09-29,Gym Bag,Cairo,1,450,450
+2026-09-29,Sport T-Shirt,Cairo,2,350,700
+2026-09-30,Sport Socks,Assiut,2,80,160
+2026-09-30,Hoodie,Cairo,2,750,1500
+2026-09-30,Sport T-Shirt,Giza,4,350,1400
+2026-09-30,Full Tracksuit,Cairo,1,1100,1100
+2026-09-30,Sport Jacket,Alexandria,4,900,3600
+2026-09-30,Full Tracksuit,Cairo,3,1100,3300
+2026-09-30,Gym Shorts,Alexandria,3,300,900
+2026-09-30,Gym Bag,Giza,3,450,1350
+2026-10-01,Training Gloves,Cairo,3,200,600
+2026-10-01,Leggings,Cairo,2,400,800
+2026-10-01,Sport T-Shirt,Cairo,2,350,700
+2026-10-01,Sport T-Shirt,Alexandria,3,350,1050
+2026-10-01,Sport Socks,Mansoura,2,80,160
+2026-10-01,Leggings,Cairo,2,400,800
+2026-10-02,Sport T-Shirt,Cairo,2,350,700
+2026-10-02,Full Tracksuit,Assiut,2,1100,2200
+2026-10-02,Gym Shorts,Cairo,1,300,300
+2026-10-02,Gym Shorts,Giza,1,300,300
+2026-10-02,Sport Socks,Cairo,1,80,80
+2026-10-02,Sport T-Shirt,Giza,1,350,350
+2026-10-02,Water Bottle,Giza,3,120,360
+2026-10-02,Gym Shorts,Cairo,3,300,900
+2026-10-02,Water Bottle,Alexandria,1,120,120
+2026-10-02,Sport Socks,Alexandria,2,80,160
+2026-10-03,Hoodie,Mansoura,2,750,1500
+2026-10-03,Water Bottle,Cairo,3,120,360
+2026-10-03,Training Gloves,Cairo,2,200,400
+2026-10-03,Hoodie,Cairo,3,750,2250
+2026-10-03,Gym Shorts,Cairo,1,300,300
+2026-10-03,Sport Socks,Cairo,4,80,320
+2026-10-03,Full Tracksuit,Cairo,3,1100,3300
+2026-10-03,Gym Bag,Cairo,2,450,900
+2026-10-03,Sport T-Shirt,Giza,4,350,1400
+2026-10-03,Hoodie,Alexandria,3,750,2250
+2026-10-04,Full Tracksuit,Giza,2,1100,2200
+2026-10-04,Gym Bag,Giza,2,450,900
+2026-10-04,Water Bottle,Cairo,4,120,480
+2026-10-04,Full Tracksuit,Cairo,3,1100,3300
+2026-10-04,Sport T-Shirt,Alexandria,1,350,350
+2026-10-04,Sport T-Shirt,Cairo,1,350,350
+2026-10-04,Hoodie,Alexandria,4,750,3000
+2026-10-04,Full Tracksuit,Giza,1,1100,1100
+2026-10-04,Sport Socks,Alexandria,2,80,160
+2026-10-04,Sport T-Shirt,Cairo,2,350,700
+2026-10-05,Hoodie,Cairo,2,750,1500
+2026-10-05,Sport T-Shirt,Mansoura,3,350,1050
+2026-10-05,Hoodie,Cairo,1,750,750
+2026-10-05,Gym Shorts,Cairo,4,300,1200
+2026-10-05,Water Bottle,Alexandria,4,120,480
+2026-10-05,Hoodie,Cairo,4,750,3000
+2026-10-05,Training Gloves,Giza,2,200,400
+2026-10-05,Gym Bag,Cairo,1,450,450
+2026-10-05,Sport T-Shirt,Cairo,3,350,1050
+2026-10-05,Cap,Giza,1,180,180
+2026-10-05,Water Bottle,Giza,4,120,480
+2026-10-05,Sport T-Shirt,Cairo,1,350,350
+2026-10-05,Sport T-Shirt,Cairo,3,350,1050
+2026-10-05,Full Tracksuit,Alexandria,3,1100,3300
+2026-10-05,Sport Jacket,Alexandria,3,900,2700
+2026-10-06,Water Bottle,Assiut,1,120,120
+2026-10-06,Sport T-Shirt,Giza,2,350,700
+2026-10-06,Gym Shorts,Alexandria,4,300,1200
+2026-10-06,Gym Shorts,Assiut,4,300,1200
+2026-10-06,Sport T-Shirt,Cairo,4,350,1400
+2026-10-06,Full Tracksuit,Alexandria,1,1100,1100
+2026-10-06,Cap,Giza,3,180,540
+2026-10-06,Gym Shorts,Cairo,4,300,1200
+2026-10-06,Sport T-Shirt,Cairo,2,350,700
+2026-10-06,Leggings,Cairo,4,400,1600
+2026-10-06,Cap,Mansoura,4,180,720
+2026-10-06,Sport T-Shirt,Alexandria,1,350,350
+2026-10-06,Hoodie,Giza,1,750,750
+2026-10-07,Training Gloves,Mansoura,1,200,200
+2026-10-07,Sport Socks,Alexandria,4,80,320
+2026-10-07,Gym Shorts,Cairo,4,300,1200
+2026-10-07,Gym Bag,Cairo,4,450,1800
+2026-10-07,Hoodie,Alexandria,4,750,3000
+2026-10-07,Sport T-Shirt,Mansoura,1,350,350
+2026-10-07,Sport T-Shirt,Alexandria,2,350,700
+2026-10-07,Sport Socks,Cairo,1,80,80
+2026-10-07,Full Tracksuit,Giza,2,1100,2200
+2026-10-07,Training Gloves,Cairo,2,200,400
+2026-10-07,Training Gloves,Giza,2,200,400
+2026-10-07,Gym Shorts,Giza,2,300,600
+2026-10-07,Gym Shorts,Giza,4,300,1200
+2026-10-07,Sport T-Shirt,Cairo,4,350,1400
+2026-10-07,Gym Shorts,Alexandria,1,300,300
+2026-10-07,Water Bottle,Assiut,3,120,360
+2026-10-08,Full Tracksuit,Giza,4,1100,4400
+2026-10-08,Hoodie,Cairo,3,750,2250
+2026-10-08,Hoodie,Cairo,3,750,2250
+2026-10-08,Full Tracksuit,Mansoura,2,1100,2200
+2026-10-08,Water Bottle,Assiut,4,120,480
+2026-10-08,Sport Socks,Giza,3,80,240
+2026-10-08,Backpack,Alexandria,1,650,650
+2026-10-09,Sport T-Shirt,Cairo,4,350,1400
+2026-10-09,Hoodie,Assiut,4,750,3000
+2026-10-09,Sport Socks,Alexandria,3,80,240
+2026-10-09,Sport Socks,Cairo,2,80,160
+2026-10-09,Hoodie,Mansoura,1,750,750
+2026-10-10,Gym Bag,Alexandria,2,450,900
+2026-10-10,Gym Shorts,Giza,3,300,900
+2026-10-10,Hoodie,Alexandria,3,750,2250
+2026-10-10,Full Tracksuit,Cairo,2,1100,2200
+2026-10-10,Sport Socks,Giza,1,80,80
+2026-10-10,Leggings,Alexandria,3,400,1200
+2026-10-10,Hoodie,Mansoura,1,750,750
+2026-10-11,Water Bottle,Giza,1,120,120
+2026-10-11,Gym Shorts,Alexandria,1,300,300
+2026-10-11,Hoodie,Giza,2,750,1500
+2026-10-11,Training Gloves,Giza,1,200,200
+2026-10-11,Gym Shorts,Giza,2,300,600
+2026-10-11,Sport T-Shirt,Cairo,4,350,1400
+2026-10-11,Gym Shorts,Cairo,3,300,900
+2026-10-12,Hoodie,Alexandria,2,750,1500
+2026-10-12,Hoodie,Mansoura,3,750,2250
+2026-10-12,Hoodie,Cairo,1,750,750
+2026-10-12,Gym Shorts,Cairo,4,300,1200
+2026-10-12,Training Gloves,Mansoura,3,200,600
+2026-10-12,Sport T-Shirt,Mansoura,4,350,1400
+2026-10-12,Sport T-Shirt,Cairo,4,350,1400
+2026-10-12,Sport Jacket,Cairo,1,900,900
+2026-10-13,Sport T-Shirt,Alexandria,2,350,700
+2026-10-13,Water Bottle,Giza,3,120,360
+2026-10-13,Hoodie,Alexandria,3,750,2250
+2026-10-13,Water Bottle,Alexandria,2,120,240
+2026-10-13,Gym Shorts,Mansoura,1,300,300
+2026-10-13,Sport T-Shirt,Assiut,4,350,1400
+2026-10-13,Cap,Giza,2,180,360
+2026-10-13,Full Tracksuit,Alexandria,2,1100,2200
+2026-10-13,Cap,Alexandria,3,180,540
+2026-10-14,Sport Socks,Cairo,1,80,80
+2026-10-14,Sport Socks,Alexandria,2,80,160
+2026-10-14,Hoodie,Alexandria,3,750,2250
+2026-10-14,Water Bottle,Cairo,2,120,240
+2026-10-14,Hoodie,Assiut,2,750,1500
+2026-10-14,Water Bottle,Giza,4,120,480
+2026-10-14,Gym Shorts,Cairo,1,300,300
+2026-10-14,Training Gloves,Giza,2,200,400
+2026-10-14,Sport Jacket,Alexandria,3,900,2700
+2026-10-15,Gym Shorts,Alexandria,2,300,600
+2026-10-15,Water Bottle,Giza,1,120,120
+2026-10-15,Gym Shorts,Assiut,2,300,600
+2026-10-15,Sport T-Shirt,Assiut,1,350,350
+2026-10-15,Leggings,Cairo,1,400,400
+2026-10-15,Gym Shorts,Giza,2,300,600
+2026-10-15,Leggings,Mansoura,1,400,400
+2026-10-16,Full Tracksuit,Cairo,2,1100,2200
+2026-10-16,Leggings,Mansoura,2,400,800
+2026-10-16,Water Bottle,Assiut,2,120,240
+2026-10-16,Gym Shorts,Giza,2,300,600
+2026-10-16,Leggings,Mansoura,4,400,1600
+2026-10-16,Cap,Cairo,2,180,360
+2026-10-16,Hoodie,Alexandria,3,750,2250
+2026-10-16,Sport T-Shirt,Alexandria,2,350,700
+2026-10-16,Water Bottle,Cairo,2,120,240
+2026-10-16,Leggings,Cairo,1,400,400
+2026-10-17,Sport Socks,Cairo,4,80,320
+2026-10-17,Water Bottle,Alexandria,1,120,120
+2026-10-17,Hoodie,Giza,3,750,2250
+2026-10-17,Sport T-Shirt,Assiut,3,350,1050
+2026-10-17,Sport Socks,Cairo,3,80,240
+2026-10-17,Full Tracksuit,Giza,1,1100,1100
+2026-10-17,Gym Shorts,Alexandria,3,300,900
+2026-10-17,Training Gloves,Alexandria,4,200,800
+2026-10-17,Gym Shorts,Alexandria,3,300,900
+2026-10-17,Gym Bag,Cairo,3,450,1350
+2026-10-17,Full Tracksuit,Assiut,1,1100,1100
+2026-10-17,Sport Socks,Cairo,1,80,80
+2026-10-17,Cap,Giza,1,180,180
+2026-10-17,Leggings,Cairo,4,400,1600
+2026-10-17,Sport Socks,Mansoura,1,80,80
+2026-10-18,Hoodie,Alexandria,2,750,1500
+2026-10-18,Sport T-Shirt,Giza,2,350,700
+2026-10-18,Sport T-Shirt,Cairo,3,350,1050
+2026-10-18,Sport T-Shirt,Mansoura,1,350,350
+2026-10-18,Sport Jacket,Alexandria,2,900,1800
+2026-10-18,Sport Socks,Assiut,4,80,320
+2026-10-18,Training Gloves,Cairo,3,200,600
+2026-10-18,Water Bottle,Cairo,1,120,120
+2026-10-18,Sport Socks,Giza,1,80,80
+2026-10-18,Gym Shorts,Alexandria,2,300,600
+2026-10-18,Water Bottle,Mansoura,2,120,240
+2026-10-19,Gym Shorts,Mansoura,2,300,600
+2026-10-19,Hoodie,Alexandria,3,750,2250
+2026-10-19,Sport T-Shirt,Alexandria,3,350,1050
+2026-10-19,Full Tracksuit,Alexandria,1,1100,1100
+2026-10-19,Full Tracksuit,Cairo,1,1100,1100
+2026-10-19,Sport Socks,Giza,3,80,240
+2026-10-19,Training Gloves,Alexandria,3,200,600
+2026-10-19,Training Gloves,Giza,4,200,800
+2026-10-19,Full Tracksuit,Giza,1,1100,1100
+2026-10-19,Gym Bag,Cairo,4,450,1800
+2026-10-19,Sport T-Shirt,Cairo,1,350,350
+2026-10-20,Sport Socks,Giza,1,80,80
+2026-10-20,Sport T-Shirt,Cairo,3,350,1050
+2026-10-20,Gym Shorts,Cairo,1,300,300
+2026-10-20,Leggings,Cairo,2,400,800
+2026-10-20,Gym Shorts,Alexandria,3,300,900
+2026-10-21,Gym Bag,Assiut,4,450,1800
+2026-10-21,Leggings,Cairo,4,400,1600
+2026-10-21,Sport Socks,Giza,1,80,80
+2026-10-21,Sport Jacket,Cairo,2,900,1800
+2026-10-21,Hoodie,Cairo,3,750,2250
+2026-10-21,Sport T-Shirt,Mansoura,4,350,1400
+2026-10-21,Full Tracksuit,Cairo,1,1100,1100
+2026-10-21,Full Tracksuit,Giza,2,1100,2200
+2026-10-21,Sport T-Shirt,Cairo,1,350,350
+2026-10-21,Gym Shorts,Cairo,2,300,600
+2026-10-21,Sport Socks,Alexandria,4,80,320
+2026-10-21,Gym Shorts,Cairo,4,300,1200
+2026-10-22,Gym Bag,Assiut,2,450,900
+2026-10-22,Full Tracksuit,Cairo,1,1100,1100
+2026-10-22,Full Tracksuit,Giza,3,1100,3300
+2026-10-22,Hoodie,Giza,1,750,750
+2026-10-22,Full Tracksuit,Cairo,2,1100,2200
+2026-10-22,Cap,Cairo,1,180,180
+2026-10-22,Sport Socks,Cairo,1,80,80
+2026-10-22,Sport Socks,Cairo,4,80,320
+2026-10-22,Sport T-Shirt,Giza,3,350,1050
+2026-10-22,Sport T-Shirt,Mansoura,4,350,1400
+2026-10-22,Sport Socks,Cairo,3,80,240
+2026-10-22,Full Tracksuit,Alexandria,4,1100,4400
+2026-10-23,Hoodie,Mansoura,2,750,1500
+2026-10-23,Training Gloves,Cairo,2,200,400
+2026-10-23,Hoodie,Mansoura,4,750,3000
+2026-10-23,Sport Socks,Alexandria,1,80,80
+2026-10-23,Full Tracksuit,Cairo,3,1100,3300
+2026-10-23,Gym Bag,Assiut,2,450,900
+2026-10-23,Sport T-Shirt,Cairo,3,350,1050
+2026-10-23,Gym Bag,Giza,4,450,1800
+2026-10-23,Sport Socks,Alexandria,4,80,320
+2026-10-23,Hoodie,Giza,2,750,1500
+2026-10-23,Full Tracksuit,Mansoura,3,1100,3300
+2026-10-23,Gym Bag,Mansoura,3,450,1350
+2026-10-23,Sport Socks,Alexandria,3,80,240
+2026-10-23,Sport T-Shirt,Mansoura,2,350,700
+2026-10-24,Sport T-Shirt,Cairo,3,350,1050
+2026-10-24,Water Bottle,Cairo,2,120,240
+2026-10-24,Hoodie,Cairo,3,750,2250
+2026-10-24,Water Bottle,Mansoura,2,120,240
+2026-10-24,Sport Socks,Cairo,4,80,320
+2026-10-24,Gym Bag,Alexandria,3,450,1350
+2026-10-24,Gym Shorts,Giza,3,300,900
+2026-10-24,Full Tracksuit,Assiut,3,1100,3300
+2026-10-24,Full Tracksuit,Cairo,2,1100,2200
+2026-10-24,Gym Shorts,Giza,4,300,1200
+2026-10-24,Training Gloves,Mansoura,3,200,600
+2026-10-24,Gym Shorts,Cairo,1,300,300
+2026-10-24,Sport T-Shirt,Alexandria,4,350,1400
+2026-10-25,Water Bottle,Giza,4,120,480
+2026-10-25,Full Tracksuit,Mansoura,3,1100,3300
+2026-10-25,Gym Shorts,Giza,2,300,600
+2026-10-25,Sport T-Shirt,Assiut,2,350,700
+2026-10-25,Sport Socks,Cairo,1,80,80
+2026-10-25,Cap,Mansoura,1,180,180
+2026-10-26,Full Tracksuit,Alexandria,1,1100,1100
+2026-10-26,Water Bottle,Cairo,3,120,360
+2026-10-26,Cap,Alexandria,3,180,540
+2026-10-26,Training Gloves,Cairo,4,200,800
+2026-10-26,Training Gloves,Mansoura,3,200,600
+2026-10-26,Leggings,Assiut,4,400,1600
+2026-10-26,Hoodie,Giza,3,750,2250
+2026-10-26,Training Gloves,Mansoura,3,200,600
+2026-10-26,Gym Shorts,Cairo,2,300,600
+2026-10-26,Cap,Assiut,1,180,180
+2026-10-26,Gym Bag,Cairo,3,450,1350
+2026-10-26,Gym Shorts,Alexandria,1,300,300
+2026-10-26,Gym Shorts,Cairo,1,300,300
+2026-10-27,Gym Shorts,Cairo,2,300,600
+2026-10-27,Hoodie,Mansoura,3,750,2250
+2026-10-27,Training Gloves,Cairo,4,200,800
+2026-10-27,Hoodie,Cairo,2,750,1500
+2026-10-27,Leggings,Cairo,1,400,400
+2026-10-27,Training Gloves,Giza,1,200,200
+2026-10-28,Sport T-Shirt,Assiut,1,350,350
+2026-10-28,Full Tracksuit,Giza,1,1100,1100
+2026-10-28,Cap,Alexandria,4,180,720
+2026-10-28,Hoodie,Assiut,3,750,2250
+2026-10-28,Gym Shorts,Assiut,1,300,300
+2026-10-28,Gym Shorts,Alexandria,2,300,600
+2026-10-28,Sport Socks,Cairo,1,80,80
+2026-10-28,Training Gloves,Alexandria,3,200,600
+2026-10-28,Sport T-Shirt,Alexandria,3,350,1050
+2026-10-28,Gym Bag,Cairo,4,450,1800
+2026-10-28,Gym Shorts,Mansoura,1,300,300
+2026-10-28,Water Bottle,Cairo,3,120,360
